@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "snipefish.aternos",
+    "ip": "Lov3Street.aternos.me:64181",
     "port": 64181,
     "version": "1.21.11",
     "try-creative": false
