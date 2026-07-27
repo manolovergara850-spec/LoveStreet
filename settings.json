@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Lov3Street.aternos.me:64181",
+    "ip": "Lov3Street.aternos.me",
     "port": 64181,
     "version": "1.21.11",
     "try-creative": false
