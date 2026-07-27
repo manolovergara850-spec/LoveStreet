@@ -2,7 +2,7 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "LoveStreet",
-    "password": "",
+    "password": "1234",
     "type": "offline"
   },
   "server": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "1234"
     },
     "anti-afk": {
       "enabled": true,
@@ -69,15 +69,6 @@
   "beds": {
     "pick-up-day": false,
     "place-night": false
-  },
-  "discord": {
-    "enabled": false,
-    "webhookUrl": 
-    "events": {
-      "connect": true,
-      "disconnect": true,
-      "chat": false
-    }
   },
   "chat": {
     "respond": true
